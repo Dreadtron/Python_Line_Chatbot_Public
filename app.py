@@ -61,7 +61,7 @@ def handle_message(event):
             s_pid = 1
             s_id = 10
         elif joke == 2:
-            bot_reply = "想聽笑話嗎？這個我覺得超好笑：\n如果白癡會飛，那我的公司簡直是個機場。"
+            bot_reply = "想聽笑話嗎？這個我覺得超好笑：\n如果白癡會飛，那我班上簡直是個機場。"
             s_pid = 1
             s_id = 16
         elif joke == 3:
